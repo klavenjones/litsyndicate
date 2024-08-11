@@ -6,6 +6,7 @@
   },
   "scripts": {
     "shopify-dev": "shopify theme dev --store litsyndicate.myshopify.com",
+    "shopify-push": "shopify theme push --store litsyndicate.myshopify.com",
     "watch-css": "npx tailwindcss -i ./styles/tailwind.css -o ./assets/application.css --watch",
     "dev": "yarn shopify-dev && yarn watch-css"
   },

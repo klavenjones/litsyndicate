@@ -1,0 +1,15 @@
+{
+  "name": "Template 404",
+  "layout": "custom_theme",
+  "wrapper": "div#404_template.custom404Container",
+  "sections": {
+    "template-404": {
+      "type": "example-404",
+      "settings": {
+        "title": "404",
+        "subtitle": "Page not found"
+      }
+    }
+  },
+  "order": ["template-404"]
+}
