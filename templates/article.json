@@ -1,12 +1,12 @@
 {
-  "name": "Template 404",
-  "layout": "404-theme",
+  "name": "Article",
+  "layout": "article-theme",
   "wrapper": "div#404_template.h-full.flex.align-center.justify-center",
   "sections": {
     "template": {
-      "type": "template-404",
+      "type": "template-article",
       "settings": {
-        "title": "404",
+        "title": "Article",
         "subtitle": "Page not found"
       }
     }
